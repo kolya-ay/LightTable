@@ -12,7 +12,9 @@
     "web-preferences": {
       "webgl": true,
       "webaudio": true,
-      "plugins": true
+      "plugins": true,
+      "direct-write": false,
+      "subpixel-font-scaling": false
     }
   },
   "dependencies": {
